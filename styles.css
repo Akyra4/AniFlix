@@ -1,4 +1,7 @@
 body{
+    display: inline-block;
     color: black;
     background: aquamarine;
+    margin: 60,px;
+    text-align: right;
 }
